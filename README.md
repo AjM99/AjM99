@@ -35,4 +35,4 @@
 <br />
 <br />
 
- <img align="left" alt="AjM99's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+ <img align="left" alt="AjM99's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AjM99&show_icons=true&hide_border=true" />
