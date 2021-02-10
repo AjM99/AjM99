@@ -7,5 +7,4 @@
 - 📫 How to reach me:anuj.more10424@gmail.com
 - ⚡ Fun fact: I'm a gamerand otaku
 - 🖥  linkedin : https://www.linkedin.com/in/anuj-more-b20424190/
-  <a href="https://www.instagram.com/anuj_more_/" target="_blank"><i
-                                    class="fab fa-instagram"></i></a>
+
