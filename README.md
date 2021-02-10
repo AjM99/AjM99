@@ -7,7 +7,8 @@
 - 📫 How to reach me:anuj.more10424@gmail.com
 - ⚡ Fun fact: I'm a gamerand otaku
 - 🖥  linkedin : https://www.linkedin.com/in/anuj-more-b20424190/
-
+<br/>
+<br/>
 ## Connect me with
 <img align="left" alt="https://anujmore.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
