@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning App development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help in making a social media app
-- 📫 How to reach me:anuj.more10424@gmail.com
+- 📫 How to reach me: anuj.more10424@gmail.com
 - ⚡ Fun fact: I'm a gamer and otaku
 <br/>
 <br/>
