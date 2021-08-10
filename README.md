@@ -1,6 +1,6 @@
 ## Hey, I'm Anuj More 
 
-- 🔭 I’m currently working on improving  my Python and Flutter skills
+- 🔭 I’m currently working on improving  my Python and Flutter  skills
 - 🌱 I’m currently learning App development
 - 👯 I’m looking to collaborate on .. .
 - 🤔 I’m looking for help in making  a social media app
